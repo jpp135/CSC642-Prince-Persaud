@@ -5,12 +5,9 @@ If the results gained from this study are consistent, then it may be possible to
 Various machine leanring methods (support vector machines, decision trees, random forrests and logistic regressions) covered in CSC642 were employed in building models to predict which counties were Covid hotspots. 
 
 This repository contains the following:
-A folder containing the presentation and final report named docs
-
-A folder containing the dataset used called named data and the instructions in the README on how to download it
-
-A folder containing the source code called named src
-
-A README providing an overview of the project and content of the repository
+>A folder containing the presentation and final report named docs
+>A folder containing the dataset used called named data and the instructions in the README on how to download it
+>A folder containing the source code called named src
+>A README providing an overview of the project and content of the repository
 
 NB: in the src folder "counties.csv" is from the Johns Hopkins University Covid 19 Data Repository while "Florida_Cases_Zips_0" is from the University of South Florida Libraries.
